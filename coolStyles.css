@@ -1,0 +1,19 @@
+h3:hover{
+	color: green;
+}
+
+html{
+	background-color: #9dc9d4;
+}
+
+img{
+	border-style: solid;
+	border-color: pink;
+	border-width: 10px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
